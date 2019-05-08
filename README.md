@@ -1,1 +1,1 @@
-Panic.
+Don't Panic!

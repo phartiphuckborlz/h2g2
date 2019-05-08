@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "PANIC"
+echo "Don't Panic"'!'
